@@ -1,4 +1,4 @@
-package com.java_essential.starter_garmatyuk;
+package Starter;
 
 public class WolfTest {
     public static void main(String[] args) {
