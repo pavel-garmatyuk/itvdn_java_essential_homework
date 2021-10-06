@@ -1,4 +1,4 @@
-package HW_2_Classes_and_Objects;
+package HW_2_Classes_and_Objects.Task_1;
 
 public class Calculator {
     public int solve(int operandOne, String mathSign, int operandTwo) {
