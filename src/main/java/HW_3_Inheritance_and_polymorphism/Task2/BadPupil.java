@@ -1,4 +1,4 @@
-package HW_4_Abstract.Practicle_1.Practicle_1.Task2;
+package HW_3_Inheritance_and_polymorphism.Task2;
 
 public class BadPupil extends Pupil {
     @Override
