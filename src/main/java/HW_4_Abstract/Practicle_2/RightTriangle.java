@@ -1,4 +1,4 @@
-package HW_4_Abstract.Practicle_1.Practicle_1.Practicle_2;
+package HW_4_Abstract.Practicle_2;
 
 public class RightTriangle extends Figure {
 
