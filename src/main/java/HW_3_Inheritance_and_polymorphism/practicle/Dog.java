@@ -1,4 +1,4 @@
-package HW_3_Inheritance_and_polymorphism;
+package HW_3_Inheritance_and_polymorphism.practicle;
 
 public class Dog extends  HomeAnimal {
     public Dog() {
