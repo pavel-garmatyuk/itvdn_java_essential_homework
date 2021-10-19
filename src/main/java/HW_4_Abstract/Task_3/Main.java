@@ -13,7 +13,7 @@ public class Main {
         if (say.equalsIgnoreCase("play")) {
             System.out.println("Приятного просмотра!");
             Player play = new Player();
-            play.
+
         } else if (say.equalsIgnoreCase("record")) {
             System.out.println("Началась запись");
 

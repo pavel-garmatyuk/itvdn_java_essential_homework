@@ -9,4 +9,17 @@ public class Plane extends Vehicle {
         this.height = height;
         this.passengerCapacity = passengerCapacity;
     }
+
+    @Override
+    public String toString() {
+        return "Plane{" +
+                "height=" + height +
+                ", passengerCapacity=" + passengerCapacity +
+                ", x=" + x +
+                ", y=" + y +
+                ", cost=" + cost +
+                ", speed=" + speed +
+                ", year=" + year +
+                '}';
+    }
 }

@@ -17,6 +17,12 @@ public class Vehicle {
 
     @Override
     public String toString() {
-        return this.x + " " + this.y + " " + this.cost + " " + this.speed + " " + this.year;
+        return "Vehicle{" +
+                "x=" + x +
+                ", y=" + y +
+                ", cost=" + cost +
+                ", speed=" + speed +
+                ", year=" + year +
+                '}';
     }
 }
