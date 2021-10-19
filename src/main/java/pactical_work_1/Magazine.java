@@ -1,4 +1,4 @@
-package HW_7_Anonimus_and_Enum;
+package pactical_work_1;
 
 public class Magazine implements Printable{
     @Override
