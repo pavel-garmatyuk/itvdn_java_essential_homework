@@ -7,7 +7,7 @@ public class Sample<T> {
         this.t = t;
     }
 
-    public Sample show() {
-        return null;
+    public void show() {
+        System.out.println(t.getClass());
     }
 }
